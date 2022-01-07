@@ -1,0 +1,15 @@
+F:\Repos\my-console\Hello\bin\Debug\net6.0\Hello.exe
+F:\Repos\my-console\Hello\bin\Debug\net6.0\Hello.deps.json
+F:\Repos\my-console\Hello\bin\Debug\net6.0\Hello.runtimeconfig.json
+F:\Repos\my-console\Hello\bin\Debug\net6.0\Hello.dll
+F:\Repos\my-console\Hello\bin\Debug\net6.0\ref\Hello.dll
+F:\Repos\my-console\Hello\bin\Debug\net6.0\Hello.pdb
+F:\Repos\my-console\Hello\obj\Debug\net6.0\Hello.csproj.AssemblyReference.cache
+F:\Repos\my-console\Hello\obj\Debug\net6.0\Hello.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repos\my-console\Hello\obj\Debug\net6.0\Hello.AssemblyInfoInputs.cache
+F:\Repos\my-console\Hello\obj\Debug\net6.0\Hello.AssemblyInfo.cs
+F:\Repos\my-console\Hello\obj\Debug\net6.0\Hello.csproj.CoreCompileInputs.cache
+F:\Repos\my-console\Hello\obj\Debug\net6.0\Hello.dll
+F:\Repos\my-console\Hello\obj\Debug\net6.0\ref\Hello.dll
+F:\Repos\my-console\Hello\obj\Debug\net6.0\Hello.pdb
+F:\Repos\my-console\Hello\obj\Debug\net6.0\Hello.genruntimeconfig.cache
